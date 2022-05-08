@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(foto6.jpg);
+   border: 30px;
+
+}
+
+div {
+    background-color: white;
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    left: 35%;
+    transform: translate(-50%, -50);
+    padding: 100px;
+    padding-top: 60px;
+    border-radius: 25px;
+    text-align: center;
+
+
+
+
+}
+
+h1{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+  
+}
+
+input {
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+    cursor: grab;
+    font-size: 15px;
+
+
+}
+
+button {
+
+    border-radius: 5px;
+    margin-left: 3px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+button:hover {
+    color: blue;
+    cursor: grab;
+    
+}
+
+img{
+ width: 100px;
+ padding-bottom: 10px;
+
+
+
+}
